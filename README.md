@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+code-dkHub here,
+I'm dasuni,
+I'm studying at Sabaragamuwa University of Sri Lanka
