@@ -1,4 +1,4 @@
 # hello-world
-just another repository
-Im dasuni 
-Im studying at Sabaragamuwa University of Sri Lanka
+code-dkHub here,
+I'm dasuni 
+I'm studying at Sabaragamuwa University of Sri Lanka
